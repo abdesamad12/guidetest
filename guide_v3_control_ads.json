@@ -42,9 +42,9 @@
     },
     "app": {
       "mode_off_version": 0,
-      "num_of_clicks": 4,
-      "ad_hide_time": 25,
-      "ad_hide_time_unit": "sec"
+      "num_of_clicks": 2,
+      "ad_hide_time": 1,
+      "ad_hide_time_unit": "min"
     }
   },
   "posts": [
