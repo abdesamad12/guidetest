@@ -53,7 +53,7 @@
 	  "time unit native": "second",
 	  "time native": "20",
 	  
-	  "is app suspended": "true",
+	  "is app suspended": "false",
 	  "update title": "A new update for this app",
 	  "update message": "Update this app because this version has some isues",
 	  "update URL": "com.innersloth.spacemafia"
