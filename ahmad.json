@@ -50,8 +50,8 @@
 	  "time banner": "1",
 	  
 	  "clicks to stop showing native ad": "2",
-	  "time unit native": "second",
-	  "time native": "59",
+	  "time unit native": "minute",
+	  "time native": "2",
 	  
 	  "is app suspended": "false",
 	  "update title": "A new update for this app",
