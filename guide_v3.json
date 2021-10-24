@@ -26,7 +26,7 @@
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "facebook",
-    "mode_button_ads_action" : "1",
+    "mode_button_ads_action" : "2",
 
     
     "unity" : {
@@ -98,7 +98,7 @@
     {
       "id" : 6,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
+      "state" : "free",
       "title" : "Test title 6",
       "description" : "Test description 6",
       "written" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
@@ -117,14 +117,6 @@
       "state" : "vip",
       "title" : "Test title 8",
       "description" : "Test description 8",
-      "written" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-    },
-    {
-      "id" : 9,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 9",
-      "description" : "Test description 9",
       "written" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     }
   ]
