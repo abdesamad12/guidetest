@@ -46,12 +46,12 @@
 	  "show faces rate": "true",
 	 
 	  "clicks to stop showing banner ad": "2",
-	  "time unit banner": "hour",
-	  "time banner": "3",
+	  "time unit banner": "second",
+	  "time banner": "50",
 	  
 	  "clicks to stop showing native ad": "2",
-	  "time unit native": "hour",
-	  "time native": "3",
+	  "time unit native": "second",
+	  "time native": "50",
 	  
 	  "is app suspended": "false",
 	  "update title": "A new update for this app",
