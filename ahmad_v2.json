@@ -48,8 +48,8 @@
 	  "guide Activity Native": "admob",
 	  
 	  
-	  "clicks to show ad in list": "2",
-	  "ad position in list": "2",
+	  "clicks to show ad in list": "3",
+	  "ad position in list": "3",
 	  
 	  "show faces rate dialog": "true",
 	  "show faces rate": "true",
@@ -59,10 +59,10 @@
 	  "time banner": "1",
 	  
 	  "clicks to stop showing native ad": "2",
-	  "time unit native": "second",
-	  "time native": "40",
+	  "time unit native": "minute",
+	  "time native": "1",
 	  
-	  "show CPA": "true",
+	  "show CPA": "false",
       "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL": "com.outfit7.talkingtomgoldrun",
 	  
@@ -103,12 +103,12 @@
         "title": "Make your first move small:",
         "guide": "You must swipe to begin the level, but if your initial move is too large, you will fail. You will not be in a position to block the initial shot. It is preferable to just tap the screen – That way, you won't move much and will be able to react to the first person in the line.",
 		"guide 2": "somthing here",
-		"VIP": "false",
+		"VIP": "true",
 		
-		"show button": "false",
-        "button text": "click here",
+		"show button": "true",
+        "button text": "amine",
 		"button text size": "17",
-		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+		"button URL": "com.spotify.music"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s4.png",
