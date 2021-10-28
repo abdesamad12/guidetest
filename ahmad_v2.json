@@ -81,7 +81,7 @@
 		"guide 2": "somthing here",
 		"VIP": "false",
 		
-		"show button": "true",
+		"show button": "false",
         "button text": "click here",
 		"button text size": "17",
 		"button URL": "com.kiloo.subwaysurf"
