@@ -82,7 +82,7 @@
 		"VIP": "false",
 		"ID": "1",
 		
-		"show button": "true",
+		"show button": "false",
         "button text": "click here",
 		"button text size": "17",
 		"button URL": "com.kiloo.subwaysurf"
@@ -95,7 +95,7 @@
 		"VIP": "true",
 		"ID": "2",
 		
-		"show button": "true",
+		"show button": "false",
         "button text": "click here",
 		"button text size": "17",
 		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
@@ -121,7 +121,7 @@
 		"VIP": "false",
 		"ID": "4",
 		
-		"show button": "true",
+		"show button": "false",
         "button text": "click here",
 		"button text size": "20",
 		"button URL": "com.outfit7.talkingtomgoldrun"
@@ -134,7 +134,7 @@
 		"VIP": "true",
 		"ID": "5",
 		
-		"show button": "true",
+		"show button": "false",
         "button text": "click here",
 		"button text size": "17",
 		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
@@ -147,7 +147,7 @@
 		"VIP": "false",
 		"ID": "6",
 		
-		"show button": "true",
+		"show button": "false",
         "button text": "click here",
 		"button text size": "17",
 		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
@@ -160,7 +160,7 @@
 		"VIP": "true",
 		"ID": "7",
 		
-		"show button": "true",
+		"show button": "false",
         "button text": "click here",
 		"button text size": "17",
 		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
@@ -173,7 +173,7 @@
 		"VIP": "false",
 		"ID": "8",
 		
-		"show button": "true",
+		"show button": "false",
         "button text": "click here",
 		"button text size": "17",
 		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
