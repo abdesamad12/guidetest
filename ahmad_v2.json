@@ -144,7 +144,7 @@
         "title": "Stop your movements:",
         "guide": "Just because you're in the air doesn't mean you can't adjust your course with a swipe. You can frequently knock them down before they've even delivered the ball. Instead of just waiting and hope you land someplace beneficial, utilize these to put yourself back in a good position to stop the following shot.",
 		"guide 2": "somthing here",
-		"VIP": "false",
+		"VIP": "true",
 		"ID": "6",
 		
 		"show button": "true",
