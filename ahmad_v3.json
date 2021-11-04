@@ -52,13 +52,13 @@
       "show faces rate dialog": "true",
       "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "default",
-      "time unit banner": "default",
-      "time banner": "default",
+      "clicks to stop showing banner ad": "100",
+      "time unit banner": "hour",
+      "time banner": "1",
 	  
-      "clicks to stop showing native ad": "default",
-      "time unit native": "default",
-      "time native": "default",
+      "clicks to stop showing native ad": "100",
+      "time unit native": "hour",
+      "time native": "1",
 	  
       "show CPA": "true",
       "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
