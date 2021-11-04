@@ -46,19 +46,19 @@
       "guide Activity Banner": "admob",
       "guide Activity Native": "admob",
 	  
-      "clicks to show ad in list": "",
+      "clicks to show ad in list": "100",
       "ad position in list": "2",
 	  
       "show faces rate dialog": "true",
       "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "",
-      "time unit banner": "",
-      "time banner": "",
+      "clicks to stop showing banner ad": "100",
+      "time unit banner": "hour",
+      "time banner": "100",
 	  
-      "clicks to stop showing native ad": "",
-      "time unit native": "",
-      "time native": "",
+      "clicks to stop showing native ad": "100",
+      "time unit native": "hour",
+      "time native": "100",
 	  
       "show CPA": "true",
       "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
