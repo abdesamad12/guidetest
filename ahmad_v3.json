@@ -38,20 +38,20 @@
       "applovin interstitial": ".",
       "applovin rewarded": ".",
 	  
-      "start Activity Inter": "admob",
-      "start Activity Native": "admob",
+      "start Activity Inter": "facebook",
+      "start Activity Native": "facebook",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": "admob",
-      "data Activity Native": "admob",
-      "data Activity Banner": "admob",
-      "data Activity Rewarded": "admob",
+      "data Activity Inter": "facebook",
+      "data Activity Native": "facebook",
+      "data Activity Banner": "facebook",
+      "data Activity Rewarded": "facebook",
 	  
-      "guide Activity Banner": "admob",
-      "guide Activity Native": "admob",
+      "guide Activity Banner": "facebook",
+      "guide Activity Native": "facebook",
 	  
       "clicks to show ad in list": "1",
-      "ad position in list": "2",
+      "ad position in list": "3",
 	  
       "show faces rate dialog": "true",
       "show faces rate": "true",
