@@ -50,17 +50,17 @@
       "guide Activity Banner": "admob",
       "guide Activity Native": "admob",
 	  
-      "clicks to show ad in list": "2",
+      "clicks to show ad in list": "1",
       "ad position in list": "2",
 	  
       "show faces rate dialog": "true",
       "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "2",
+      "clicks to stop showing banner ad": "100",
       "time unit banner": "minute",
       "time banner": "1",
 	  
-      "clicks to stop showing native ad": "2",
+      "clicks to stop showing native ad": "100",
       "time unit native": "second",
       "time native": "40",
 	  
