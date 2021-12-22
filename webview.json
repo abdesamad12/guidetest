@@ -43,10 +43,8 @@
 	  
       "start Activity Inter": "admob",
       "start Activity Native": "admob",
-      "start Activity Banner": ".",
 	  
       "main Activity Inter": "admob",
-      "main Activity Native": ".",
       "main Activity Banner": "admob",
 	  
       "web view banner 1": "admob",
