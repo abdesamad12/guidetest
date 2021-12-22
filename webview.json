@@ -42,7 +42,7 @@
 	  
 	  
       "start Activity Inter": "admob",
-      "start Activity Native": "admob",
+      "start Activity Native": ".",
       "start Activity Banner": ".",
 	  
       "main Activity Inter": "admob",
@@ -52,12 +52,9 @@
       "web view banner 1": "admob",
       "web view banner 2": "admob",
       "web view banner 3": "admob",
-	  
-      "clicks to show ad in list": "1",
-      "ad position in list": "2",
-	  
+	 
+	 
       "show faces rate dialog": "true",
-      "show faces rate": "true",
 	  
       "clicks to stop showing banner ad": "100",
       "time unit banner": "minute",
@@ -67,12 +64,12 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA 1": "true",
+      "show CPA 1": "false",
       "CPA image 1": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL 1": "com.outfit7.talkingtomgoldrun",
 	  "CPA text 1": "first ad",
 	  
-      "show CPA 2": "true",
+      "show CPA 2": "false",
       "CPA image 2": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
 	  "CPA text 2": "second ad",
