@@ -54,7 +54,7 @@
       "web view banner 3": "admob",
 	 
 	 
-      "show faces rate dialog": "true",
+      "show faces rate dialog": "false",
 	  
       "clicks to stop showing banner ad": "2",
       "time unit banner": "minute",
