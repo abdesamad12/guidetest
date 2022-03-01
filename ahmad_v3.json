@@ -40,14 +40,14 @@
 	  
       "start Activity Inter": "admob",
       "start Activity Native": "admob",
-      "start Activity Banner": "applovin",
+      "start Activity Banner": "admob",
 	  
       "data Activity Inter": "admob",
       "data Activity Native": "admob",
-      "data Activity Banner": "applovin",
+      "data Activity Banner": "admob",
       "data Activity Rewarded": "admob",
 	  
-      "guide Activity Banner": "applovin",
+      "guide Activity Banner": "admob",
       "guide Activity Native": "admob",
 	  
       "clicks to show ad in list": "1",
